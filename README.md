@@ -1,6 +1,6 @@
 <div align='center'>
-    <h1><b>⚓ DevLinks</b></h1>
-    <p>Aplicativo que busca apresentar links uteis relacionado ao usuário</p>
+    <h1><b>🚀 SPA Universe</b></h1>
+    <p>Aplicativo construido para estudo de SPA e Routes</p>
 
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/diogo-kappaun/spa-universe?style=flat-square&label=Languages&labelColor=%23404040&color=%23BFBFBF">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/diogo-kappaun/spa-universe?style=flat-square&label=Size&labelColor=%23404040&color=%23BFBFBF">
